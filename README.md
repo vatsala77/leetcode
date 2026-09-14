@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vatsala77/leetcode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vatsala77/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
