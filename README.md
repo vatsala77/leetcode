@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vatsala77/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
@@ -86,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
