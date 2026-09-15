@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vatsala77/leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/vatsala77/leetcode/tree/master/0216-combination-sum-iii) |
+| [0904-fruit-into-baskets](https://github.com/vatsala77/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsala77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vatsala77/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
+| [0904-fruit-into-baskets](https://github.com/vatsala77/leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsala77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/vatsala77/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsala77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
