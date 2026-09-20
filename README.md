@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vatsala77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsala77/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vatsala77/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/vatsala77/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vatsala77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vatsala77/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vatsala77/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/vatsala77/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vatsala77/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/vatsala77/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/vatsala77/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/vatsala77/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 ## Simulation
 |  |
 | ------- |
