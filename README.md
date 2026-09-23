@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/vatsala77/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/vatsala77/leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
