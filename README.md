@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vatsala77/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/vatsala77/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vatsala77/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vatsala77/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vatsala77/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vatsala77/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vatsala77/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vatsala77/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
