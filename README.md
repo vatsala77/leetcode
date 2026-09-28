@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vatsala77/leetcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vatsala77/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vatsala77/leetcode/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/vatsala77/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vatsala77/leetcode/tree/master/0860-lemonade-change) |
