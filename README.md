@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vatsala77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vatsala77/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vatsala77/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vatsala77/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/vatsala77/leetcode/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3524-find-x-value-of-array-i](https://github.com/vatsala77/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vatsala77/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vatsala77/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vatsala77/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vatsala77/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/vatsala77/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Depth-First Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vatsala77/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
 |  |
 | ------- |
@@ -208,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vatsala77/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsala77/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vatsala77/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
