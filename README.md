@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsala77/leetcode/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/vatsala77/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vatsala77/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vatsala77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vatsala77/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/vatsala77/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/vatsala77/leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vatsala77/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vatsala77/leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vatsala77/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
