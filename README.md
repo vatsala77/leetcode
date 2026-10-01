@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vatsala77/leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/vatsala77/leetcode/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/vatsala77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vatsala77/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vatsala77/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vatsala77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/vatsala77/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vatsala77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vatsala77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
