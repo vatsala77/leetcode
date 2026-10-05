@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vatsala77/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/vatsala77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vatsala77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vatsala77/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/vatsala77/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/vatsala77/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
+| [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vatsala77/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vatsala77/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vatsala77/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vatsala77/leetcode/tree/master/0860-lemonade-change) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vatsala77/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsala77/leetcode/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/vatsala77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vatsala77/leetcode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
