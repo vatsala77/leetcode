@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vatsala77/leetcode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/vatsala77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vatsala77/leetcode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsala77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vatsala77/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsala77/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/vatsala77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vatsala77/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsala77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsala77/leetcode/tree/master/0283-move-zeroes) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vatsala77/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsala77/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/vatsala77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/vatsala77/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vatsala77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
