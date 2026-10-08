@@ -5,13 +5,15 @@ void solve(int ind,string digits,string map[],vector<string>&ans,string ds){
         ans.push_back(ds);
         return;
     }
-    int no= digits[ind]-'0';
-    string val= map[no];
-    for(int i=0;i< val.length();i++){
-        ds.push_back(val[i]);
-        solve(ind+1,digits,map,ans,ds);
-        ds.pop_back();
+   
+    int n= digits[ind]-'0';
+    string temp= map[n];
+    for(int i=0;i<temp.size();i++){
+      ds.push_back(temp[i]);
+      solve(ind+1,digits,map,ans,ds);
+      ds.pop_back();
     }
+    
 }
     vector<string> letterCombinations(string digits) {
         vector<string>ans;
