@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vatsala77/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vatsala77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vatsala77/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vatsala77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsala77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/vatsala77/leetcode/tree/master/0216-combination-sum-iii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vatsala77/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vatsala77/leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vatsala77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vatsala77/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vatsala77/leetcode/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/vatsala77/leetcode/tree/master/0435-non-overlapping-intervals) |
